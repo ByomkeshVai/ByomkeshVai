@@ -18,9 +18,9 @@
 
 <img align="right" alt="GIF" width="55%" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- 🔭 I’m currently working as a Frontend Developer
+- 🔭 I’m currently working as a Full Stack Developer (MERN)
   
-- 🌱 I’m currently learning Redux, Moongose, socket.io, React-native
+- 🌱 I’m currently learning graphQL, postgresql, Next.js
   
 - 👯 I’m looking to collaborate on Projects
   
