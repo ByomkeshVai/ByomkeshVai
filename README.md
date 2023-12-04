@@ -48,7 +48,7 @@
 <a href = 'https://www.linkedin.com/in/habib1028'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://facebook.com/habibrahman2580'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a> 
 <a href = 'https://habibrahman2580.netlify.app'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/byomkesh2580'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.github.com/ByomkeshVai'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
 <br>
