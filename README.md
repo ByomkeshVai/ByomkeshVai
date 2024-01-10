@@ -43,6 +43,22 @@
 <a href= https://github.com/byomkesh2580?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 <a href= https://github.com/byomkesh2580?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/netlify.svg'> </a>
 
+---
+
+### ☄️ Github Streaks:
+<p align="center">
+    <img alt="Byomkesh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ByomkeshVai&theme=tokyonight&hide_border=true"/>
+</p>
+
+### ⚡ Github Stats:
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=ByomkeshVai&show_icons=true&hide_border=true&theme=tokyonight" alt="ByomkeshVai stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ByomkeshVai&langs_count=10&w_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ByomkeshVai stats"/>
+	
+</p>
+
+---
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/habib1028'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
