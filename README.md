@@ -9,7 +9,7 @@
 </p>
 
 
-[![Github](https://img.shields.io/github/followers/byomkesh2580?label=Follow&style=social)](https://github.com/ByomkeshVai)
+[![Github](https://img.shields.io/github/followers/ByomkeshVai?label=Follow&style=social)](https://github.com/ByomkeshVai)
 
 <div size='20px'> Hi! My name is Habibur Rahman, Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
