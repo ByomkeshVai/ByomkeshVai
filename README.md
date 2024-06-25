@@ -20,11 +20,7 @@
 
 - 🔭 I’m currently working as a Full Stack Developer (MERN)
   
-- 🌱 I’m currently learning graphQL, postgresql, Next.js
-  
-- 👯 I’m looking to collaborate on Projects
-  
-- 💬 Ask me about Javascript, React, Node
+- 🌱 I’m currently learning Redis, NestJS
   
 - ⚡ Fun fact: Don't Sleep Untill You Debug
 
